@@ -4469,41 +4469,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "/Users/sachinkaushik/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Amit\\Maxus\\Maxus\\Maxus.csproj",
+      "projectUniqueName": "/Users/sachinkaushik/Downloads/MaxusClient/Maxus/Maxus.csproj",
       "projectName": "Maxus",
-      "projectPath": "D:\\Projects\\Amit\\Maxus\\Maxus\\Maxus.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Amit\\Maxus\\Maxus\\obj\\",
+      "projectPath": "/Users/sachinkaushik/Downloads/MaxusClient/Maxus/Maxus.csproj",
+      "packagesPath": "/Users/sachinkaushik/.nuget/packages/",
+      "outputPath": "/Users/sachinkaushik/Downloads/MaxusClient/Maxus/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/sachinkaushik/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Maxus.Application.csproj": {
-              "projectPath": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Maxus.Application.csproj"
+            "/Users/sachinkaushik/Downloads/MaxusClient/Maxus.Application/Maxus.Application.csproj": {
+              "projectPath": "/Users/sachinkaushik/Downloads/MaxusClient/Maxus.Application/Maxus.Application.csproj"
             },
-            "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Maxus.Domain.csproj": {
-              "projectPath": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Maxus.Domain.csproj"
+            "/Users/sachinkaushik/Downloads/MaxusClient/Maxus.Domain/Maxus.Domain.csproj": {
+              "projectPath": "/Users/sachinkaushik/Downloads/MaxusClient/Maxus.Domain/Maxus.Domain.csproj"
             },
-            "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Maxus.Infrastructure.csproj": {
-              "projectPath": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Maxus.Infrastructure.csproj"
+            "/Users/sachinkaushik/Downloads/MaxusClient/Maxus.Infrastructure/Maxus.Infrastructure.csproj": {
+              "projectPath": "/Users/sachinkaushik/Downloads/MaxusClient/Maxus.Infrastructure/Maxus.Infrastructure.csproj"
             }
           }
         }
@@ -4559,7 +4556,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

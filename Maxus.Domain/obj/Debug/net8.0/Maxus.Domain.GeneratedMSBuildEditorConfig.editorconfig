@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Maxus.Domain
-build_property.ProjectDir = D:\Projects\Amit\Maxus\Maxus.Domain\
+build_property.ProjectDir = /Users/sachinkaushik/Downloads/MaxusClient/Maxus.Domain/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
