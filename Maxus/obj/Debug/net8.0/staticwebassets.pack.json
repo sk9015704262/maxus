@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\EmailTemplates\\FeedbackReport.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\FeedbackReport.html"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\EmailTemplates\\MOMEmail.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\MOMEmail.html"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\EmailTemplates\\TrainingEmail.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\TrainingEmail.html"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\EmailTemplates\\VisitEmail.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\VisitEmail.html"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png",
+      "PackagePath": "staticwebassets\\Image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\FeedbackReportAttachment\\e8b1782a-f5d6-4e5d-8b2f-c121db727a8b.png",
+      "PackagePath": "staticwebassets\\Image\\FeedbackReportAttachment\\e8b1782a-f5d6-4e5d-8b2f-c121db727a8b.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\MOMReportAttachment\\12f2531a-08e2-4e58-8062-85b492cd31cf.png",
+      "PackagePath": "staticwebassets\\Image\\MOMReportAttachment\\12f2531a-08e2-4e58-8062-85b492cd31cf.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\MOMReportAttachment\\1c392758-61c4-46bd-b885-24f88ce0dea0.png",
+      "PackagePath": "staticwebassets\\Image\\MOMReportAttachment\\1c392758-61c4-46bd-b885-24f88ce0dea0.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\MOMReportAttachment\\ac87c39e-9f2a-4958-8b27-cdc41e25369d.png",
+      "PackagePath": "staticwebassets\\Image\\MOMReportAttachment\\ac87c39e-9f2a-4958-8b27-cdc41e25369d.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\MOMReportAttachment\\f27f6728-8707-4111-a7f2-ea697cfaad26.png",
+      "PackagePath": "staticwebassets\\Image\\MOMReportAttachment\\f27f6728-8707-4111-a7f2-ea697cfaad26.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\TraningReport\\210d1335-f98d-460d-a14b-6d183b9e3fbc.png",
+      "PackagePath": "staticwebassets\\Image\\TraningReport\\210d1335-f98d-460d-a14b-6d183b9e3fbc.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\TraningReport\\6c96ea5e-f979-45f3-be54-e2aeabbc142b.png",
+      "PackagePath": "staticwebassets\\Image\\TraningReport\\6c96ea5e-f979-45f3-be54-e2aeabbc142b.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\TraningReport\\d539646b-2778-446c-96db-1a383feb0a17.png",
+      "PackagePath": "staticwebassets\\Image\\TraningReport\\d539646b-2778-446c-96db-1a383feb0a17.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\VisitReportAttachment\\bce2a15c-ca34-4d23-b99a-9f998e5640b9.png",
+      "PackagePath": "staticwebassets\\Image\\VisitReportAttachment\\bce2a15c-ca34-4d23-b99a-9f998e5640b9.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\VisitReport\\14de2fe0-7e22-4ee2-98c9-b5bc8043b235.png",
+      "PackagePath": "staticwebassets\\Image\\VisitReport\\14de2fe0-7e22-4ee2-98c9-b5bc8043b235.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\VisitReport\\81e44c25-7b77-45cc-975b-0b0fbc143ae9.png",
+      "PackagePath": "staticwebassets\\Image\\VisitReport\\81e44c25-7b77-45cc-975b-0b0fbc143ae9.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\VisitReport\\b327b701-a2b7-4fc7-a68e-812f3184f920.png",
+      "PackagePath": "staticwebassets\\Image\\VisitReport\\b327b701-a2b7-4fc7-a68e-812f3184f920.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\om\\76e52d89-6ce1-4338-ac70-4fbc5f0ed5a0.png",
+      "PackagePath": "staticwebassets\\Image\\om\\76e52d89-6ce1-4338-ac70-4fbc5f0ed5a0.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\om\\8efcb54b-a0a5-4b93-9a75-ea34a7e7492b.png",
+      "PackagePath": "staticwebassets\\Image\\om\\8efcb54b-a0a5-4b93-9a75-ea34a7e7492b.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\shivam\\1f4203d8-f28c-48cb-a8c6-b8f1cbc366a8.png",
+      "PackagePath": "staticwebassets\\Image\\shivam\\1f4203d8-f28c-48cb-a8c6-b8f1cbc366a8.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\shivam\\330cfb96-2978-4f86-922d-0fbb2b00badc.png",
+      "PackagePath": "staticwebassets\\Image\\shivam\\330cfb96-2978-4f86-922d-0fbb2b00badc.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\shivam\\3e89aced-309a-4401-9ff2-ecd4494305fd.png",
+      "PackagePath": "staticwebassets\\Image\\shivam\\3e89aced-309a-4401-9ff2-ecd4494305fd.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\shivam\\dd1f71c1-db08-4e3a-a6eb-b105e3a7b07d.png",
+      "PackagePath": "staticwebassets\\Image\\shivam\\dd1f71c1-db08-4e3a-a6eb-b105e3a7b07d.png"
+    },
+    {
+      "Id": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\shivam\\f4b3f284-09c4-4ae3-aa43-6896a068f72d.png",
+      "PackagePath": "staticwebassets\\Image\\shivam\\f4b3f284-09c4-4ae3-aa43-6896a068f72d.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Maxus.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Maxus.props",
+      "PackagePath": "build\\Maxus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Maxus.props",
+      "PackagePath": "buildMultiTargeting\\Maxus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Maxus.props",
+      "PackagePath": "buildTransitive\\Maxus.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

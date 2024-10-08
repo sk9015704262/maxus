@@ -1,0 +1,1381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Amit\\Maxus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\siterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\siterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\interfaces\\isiterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\interfaces\\isiterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\siteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\siteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\site\\sitelistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\site\\sitelistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\interfaces\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\interfaces\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\mobileapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\mobileapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\dashboard\\dashboardlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\dashboard\\dashboardlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\visitreportcheklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\visitreportcheklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\visitreportcheklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\visitreportcheklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\visitreportchecklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\visitreportchecklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\momreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\momreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\customerfeedbackreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\customerfeedbackreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\customerfeedbackreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\customerfeedbackreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\entities\\tbl_optionfeedbackreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\entities\\tbl_optionfeedbackreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\customerfeedbackreport\\customerfeedbackmasterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\customerfeedbackreport\\customerfeedbackmasterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\entities\\tbl_customerfeedbackreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\entities\\tbl_customerfeedbackreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\customerfeedbackreport\\customerfeedbackreportbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\customerfeedbackreport\\customerfeedbackreportbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\common\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\common\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\entities\\tbl_customerfeedbackmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\entities\\tbl_customerfeedbackmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\customerfeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\customerfeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\customerfeedbackreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\customerfeedbackreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\attachmentlimitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\attachmentlimitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\attachmentlimitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\attachmentlimitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\customerfeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\customerfeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\customerfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\customerfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\client\\getclientbycompanyreqest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\client\\getclientbycompanyreqest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\wwwroot\\image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\wwwroot\\image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\common\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\common\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\common\\customerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\common\\customerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\visitreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\visitreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\visitreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\visitreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\visitreport\\visitreportbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\visitreport\\visitreportbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\visitreport\\getvisitreportbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\visitreport\\getvisitreportbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\entities\\tbl_visitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\entities\\tbl_visitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\entities\\partialentities\\tbl_optionvisitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\entities\\partialentities\\tbl_optionvisitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\entities\\tbl_visitreportmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\entities\\tbl_visitreportmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\dashboard\\getreportcountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\dashboard\\getreportcountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\43e5511ad1805d225d6a97cb9f48e52cbb1a704c21fa929604d7928badf0b331\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\userrightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\userrightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\visitreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\visitreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\customerfeedbackreport\\getcustomerfeedbackreportbycompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\customerfeedbackreport\\getcustomerfeedbackreportbycompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\customerfeedbackreport\\getcustomerfeedbackreportbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\customerfeedbackreport\\getcustomerfeedbackreportbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\site\\getsitebycompanyandclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\site\\getsitebycompanyandclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\interfaces\\isiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\interfaces\\isiteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\interfaces\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\services\\traninigreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\services\\traninigreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\userrights\\userrightsbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\userrights\\userrightsbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\userrightsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\userrightsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\userrightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\userrightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\trainingreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\trainingreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|d:\\projects\\amit\\maxus\\maxus.infrastructure\\repositories\\trainingreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CDDCF5-CAC7-43E3-AA55-EA229DA04216}|Maxus.Infrastructure\\Maxus.Infrastructure.csproj|solutionrelative:maxus.infrastructure\\repositories\\trainingreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\customerfeedbackreport\\createcustomerfeedbackreportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\customerfeedbackreport\\createcustomerfeedbackreportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\trainingreport\\trainingreportlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\trainingreport\\trainingreportlistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\trainingreport\\createtrainingreportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\trainingreport\\createtrainingreportrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|d:\\projects\\amit\\maxus\\maxus.domain\\entities\\tbl_momreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C1428-FC2B-4096-AB6C-EC695CD06338}|Maxus.Domain\\Maxus.Domain.csproj|solutionrelative:maxus.domain\\entities\\tbl_momreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\maxus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\maxus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|d:\\projects\\amit\\maxus\\maxus.application\\dtos\\branch\\createbranchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CFFA3-6A1B-4116-BE0D-76925E82C3E6}|Maxus.Application\\Maxus.Application.csproj|solutionrelative:maxus.application\\dtos\\branch\\createbranchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\63d44e281cc40b78adc47cae0faec7cd0b442a36c43a1e1a6fa50d9497410c31\\Maxus.Application\\DTOs\\Branch\\CreateBranchRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\userformrightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\userformrightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\industrysegmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\industrysegmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|d:\\projects\\amit\\maxus\\maxus\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECB22BD-1230-4865-AEB8-1701F7DD2543}|Maxus\\Maxus.csproj|solutionrelative:maxus\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBranchRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\IBranchRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Interfaces\\IBranchRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\IBranchRepository.cs",
+              "RelativeToolTip": "Maxus.Domain\\Interfaces\\IBranchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:01:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BranchRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\BranchRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\BranchRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\BranchRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\BranchRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:56:39.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SiteListRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Site\\SiteListRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\Site\\SiteListRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Site\\SiteListRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\Site\\SiteListRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:51:00.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MobileApiController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\MobileApiController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\MobileApiController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\MobileApiController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\MobileApiController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwH4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:21.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\SiteController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\SiteController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\SiteController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\SiteController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowC0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:30.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiteService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\SiteService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\SiteService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\SiteService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\SiteService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwE4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:41:14.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiteRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\SiteRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\SiteRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\SiteRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\SiteRepository.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAMwJ4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:11:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISiteRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\ISiteRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Interfaces\\ISiteRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\ISiteRepository.cs",
+              "RelativeToolTip": "Maxus.Domain\\Interfaces\\ISiteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:41:31.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VisitReportChekListRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\VisitReportChekListRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\VisitReportChekListRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\VisitReportChekListRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\VisitReportChekListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:44:48.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Maxus.Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:33:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\appsettings.json",
+              "RelativeDocumentMoniker": "Maxus\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\appsettings.json",
+              "RelativeToolTip": "Maxus\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T07:20:37.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VisitReportChekListService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\VisitReportChekListService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\VisitReportChekListService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\VisitReportChekListService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\VisitReportChekListService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwDAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:44:14.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MOMReportController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\MOMReportController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\MOMReportController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\MOMReportController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\MOMReportController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerFeedbackMasterResponseDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackMasterResponseDTO.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackMasterResponseDTO.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackMasterResponseDTO.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackMasterResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:48:27.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashBoardListRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\dashboard\\DashBoardListRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\dashboard\\DashBoardListRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\dashboard\\DashBoardListRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\dashboard\\DashBoardListRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:07:49.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerFeedbackReportRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\CustomerFeedbackReportRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\CustomerFeedbackReportRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\CustomerFeedbackReportRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\CustomerFeedbackReportRepository.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAMwLAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:27:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerFeedbackReportService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\CustomerFeedbackReportService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\CustomerFeedbackReportService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\CustomerFeedbackReportService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\CustomerFeedbackReportService.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAtwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:38:52.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:41:07.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:20:23.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VisitReportCheckListController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\VisitReportCheckListController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\VisitReportCheckListController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\VisitReportCheckListController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\VisitReportCheckListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:50.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Common\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Common\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Common\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Maxus.Application\\Common\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAIwP0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:07:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "tbl_CustomerFeedbackMaster.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_CustomerFeedbackMaster.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Entities\\tbl_CustomerFeedbackMaster.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_CustomerFeedbackMaster.cs",
+              "RelativeToolTip": "Maxus.Domain\\Entities\\tbl_CustomerFeedbackMaster.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAywBsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:32:06.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "tbl_CustomerFeedbackReport.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_CustomerFeedbackReport.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Entities\\tbl_CustomerFeedbackReport.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_CustomerFeedbackReport.cs",
+              "RelativeToolTip": "Maxus.Domain\\Entities\\tbl_CustomerFeedbackReport.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAWwC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:31:34.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerFeedbackReportByIdResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackReportByIdResponse.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackReportByIdResponse.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackReportByIdResponse.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\CustomerFeedbackReportByIdResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:48:19.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AttachmentLimitController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\AttachmentLimitController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\AttachmentLimitController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\AttachmentLimitController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\AttachmentLimitController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:59:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "tbl_OptionFeedbackReport.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_OptionFeedbackReport.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Entities\\tbl_OptionFeedbackReport.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_OptionFeedbackReport.cs",
+              "RelativeToolTip": "Maxus.Domain\\Entities\\tbl_OptionFeedbackReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:07:44.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerFeedbackRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\CustomerFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\CustomerFeedbackRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\CustomerFeedbackRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\CustomerFeedbackRepository.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAwwM8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:05:36.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerFeedbackController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\CustomerFeedbackController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\CustomerFeedbackController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\CustomerFeedbackController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\CustomerFeedbackController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAgwHsAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:56:53.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\CompanyService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\CompanyService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\CompanyService.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAuwHgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:31:45.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerFeedbackReportController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\CustomerFeedbackReportController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\CustomerFeedbackReportController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\CustomerFeedbackReportController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\CustomerFeedbackReportController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowEAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:56:56.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerFeedbackService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\CustomerFeedbackService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\CustomerFeedbackService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\CustomerFeedbackService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\CustomerFeedbackService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAIAwwGMAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:01:03.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AttachmentLimitsService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\AttachmentLimitsService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\AttachmentLimitsService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\AttachmentLimitsService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\AttachmentLimitsService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAIAwwEoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:25:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAewKoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:32:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ISiteService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Interfaces\\ISiteService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Interfaces\\ISiteService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Interfaces\\ISiteService.cs",
+              "RelativeToolTip": "Maxus.Application\\Interfaces\\ISiteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:39:35.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomErrorResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Common\\CustomErrorResponse.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Common\\CustomErrorResponse.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Common\\CustomErrorResponse.cs",
+              "RelativeToolTip": "Maxus.Application\\Common\\CustomErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:34:08.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\ClientService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\ClientService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\ClientService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:07:58.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaginationFilter.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Common\\PaginationFilter.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Common\\PaginationFilter.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Common\\PaginationFilter.cs",
+              "RelativeToolTip": "Maxus.Application\\Common\\PaginationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:34:14.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminDashBoardController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\AdminDashBoardController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\AdminDashBoardController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\AdminDashBoardController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\AdminDashBoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:12:30.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAmwNQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:10:57.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "tbl_VisitReportMaster.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_VisitReportMaster.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Entities\\tbl_VisitReportMaster.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_VisitReportMaster.cs",
+              "RelativeToolTip": "Maxus.Domain\\Entities\\tbl_VisitReportMaster.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:14:51.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "tbl_VisitReport.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_VisitReport.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Entities\\tbl_VisitReport.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_VisitReport.cs",
+              "RelativeToolTip": "Maxus.Domain\\Entities\\tbl_VisitReport.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:29:56.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetClientByCompanyReqest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Client\\GetClientByCompanyReqest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\Client\\GetClientByCompanyReqest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Client\\GetClientByCompanyReqest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\Client\\GetClientByCompanyReqest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:04:54.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png -  [English (United States)] - PNG [1462x614, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png",
+              "RelativeDocumentMoniker": "Maxus\\wwwroot\\Image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\wwwroot\\Image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png -  [English (United States)] - PNG [1462x614, 32 bit, PNG]",
+              "RelativeToolTip": "Maxus\\wwwroot\\Image\\1\\8b60f583-3ec6-4853-b1c0-e760ca52b7aa.png -  [English (United States)] - PNG [1462x614, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-27T11:42:02.968Z",
+              "EditorCaption": " -  [English (United States)] - PNG [1462x614, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\BranchService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\BranchService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\BranchService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\BranchService.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:35:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "tbl_OptionVisitReport.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\PartialEntities\\tbl_OptionVisitReport.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Entities\\PartialEntities\\tbl_OptionVisitReport.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\PartialEntities\\tbl_OptionVisitReport.cs",
+              "RelativeToolTip": "Maxus.Domain\\Entities\\PartialEntities\\tbl_OptionVisitReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:23:34.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VisitReportByIdResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\VisitReport\\VisitReportByIdResponse.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\VisitReport\\VisitReportByIdResponse.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\VisitReport\\VisitReportByIdResponse.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\VisitReport\\VisitReportByIdResponse.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:33:15.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VisitReportController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\VisitReportController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\VisitReportController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\VisitReportController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\VisitReportController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:54.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetVisitReportByIdRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\VisitReport\\GetVisitReportByIdRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\VisitReport\\GetVisitReportByIdRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\VisitReport\\GetVisitReportByIdRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\VisitReport\\GetVisitReportByIdRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:33:08.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VisitReportRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\VisitReportRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\VisitReportRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\VisitReportRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\VisitReportRepository.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAwwKkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:33:32.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetSiteByCompanyAndClientRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Site\\GetSiteByCompanyAndClientRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\Site\\GetSiteByCompanyAndClientRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Site\\GetSiteByCompanyAndClientRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\Site\\GetSiteByCompanyAndClientRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:39:15.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:03:36.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VisitReportService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\VisitReportService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\VisitReportService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\VisitReportService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\VisitReportService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAnwFcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T05:14:53.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserRightService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\UserRightService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\UserRightService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\UserRightService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\UserRightService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:05:23.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetReportCountRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\dashboard\\GetReportCountRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\dashboard\\GetReportCountRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\dashboard\\GetReportCountRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\dashboard\\GetReportCountRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:12:32.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Maxus\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\appsettings.Development.json",
+              "RelativeToolTip": "Maxus\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T07:10:15.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\43e5511ad1805d225d6a97cb9f48e52cbb1a704c21fa929604d7928badf0b331\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\43e5511ad1805d225d6a97cb9f48e52cbb1a704c21fa929604d7928badf0b331\\AuthController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAewDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:40:44.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GetCustomerFeedbackReportByIdRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByIdRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByIdRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByIdRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByIdRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:48:12.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetCustomerFeedbackReportByCompanyRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByCompanyRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByCompanyRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByCompanyRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\GetCustomerFeedbackReportByCompanyRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:48:15.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Interfaces\\IClientService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "Maxus.Application\\Interfaces\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:05:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Interfaces\\ICompanyService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Interfaces\\ICompanyService.cs",
+              "RelativeToolTip": "Maxus.Application\\Interfaces\\ICompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:06:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Maxus.Domain\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:08:17.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:10:07.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "tbl_MOMReport.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_MOMReport.cs",
+              "RelativeDocumentMoniker": "Maxus.Domain\\Entities\\tbl_MOMReport.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Domain\\Entities\\tbl_MOMReport.cs",
+              "RelativeToolTip": "Maxus.Domain\\Entities\\tbl_MOMReport.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:22:57.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TrainingReportController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\TrainingReportController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\TrainingReportController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\TrainingReportController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\TrainingReportController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:37.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserRightsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\UserRightsController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\UserRightsController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\UserRightsController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\UserRightsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:44.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserRightsRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\UserRightsRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\UserRightsRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\UserRightsRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\UserRightsRepository.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAawH8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:34:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TraninigReportService.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\TraninigReportService.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\Services\\TraninigReportService.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\Services\\TraninigReportService.cs",
+              "RelativeToolTip": "Maxus.Application\\Services\\TraninigReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:03:41.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserRightsByIdResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\UserRights\\UserRightsByIdResponse.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\UserRights\\UserRightsByIdResponse.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\UserRights\\UserRightsByIdResponse.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\UserRights\\UserRightsByIdResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:05:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CreateTrainingReportRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\TrainingReport\\CreateTrainingReportRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\TrainingReport\\CreateTrainingReportRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\TrainingReport\\CreateTrainingReportRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\TrainingReport\\CreateTrainingReportRequest.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA8wDoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:02:15.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TrainingReportRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\TrainingReportRepository.cs",
+              "RelativeDocumentMoniker": "Maxus.Infrastructure\\Repositories\\TrainingReportRepository.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Infrastructure\\Repositories\\TrainingReportRepository.cs",
+              "RelativeToolTip": "Maxus.Infrastructure\\Repositories\\TrainingReportRepository.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAlwKcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:04:40.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TrainingReportListRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\TrainingReport\\TrainingReportListRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\TrainingReport\\TrainingReportListRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\TrainingReport\\TrainingReportListRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\TrainingReport\\TrainingReportListRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:20:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CreateCustomerFeedbackReportRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\CreateCustomerFeedbackReportRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\CreateCustomerFeedbackReportRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\CustomerFeedbackReport\\CreateCustomerFeedbackReportRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\CustomerFeedbackReport\\CreateCustomerFeedbackReportRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:25:21.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CreateBranchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\63d44e281cc40b78adc47cae0faec7cd0b442a36c43a1e1a6fa50d9497410c31\\Maxus.Application\\DTOs\\Branch\\CreateBranchRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\63d44e281cc40b78adc47cae0faec7cd0b442a36c43a1e1a6fa50d9497410c31\\Maxus.Application\\DTOs\\Branch\\CreateBranchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:02:05.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Program.cs",
+              "RelativeDocumentMoniker": "Maxus\\Program.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Program.cs",
+              "RelativeToolTip": "Maxus\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:03:49.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Responses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Maxus\\Responses\\ApiResponse.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Responses\\ApiResponse.cs",
+              "RelativeToolTip": "Maxus\\Responses\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:05:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Maxus.csproj",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Maxus.csproj",
+              "RelativeDocumentMoniker": "Maxus\\Maxus.csproj",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Maxus.csproj",
+              "RelativeToolTip": "Maxus\\Maxus.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T05:14:34.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CreateBranchRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Branch\\CreateBranchRequest.cs",
+              "RelativeDocumentMoniker": "Maxus.Application\\DTOs\\Branch\\CreateBranchRequest.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus.Application\\DTOs\\Branch\\CreateBranchRequest.cs",
+              "RelativeToolTip": "Maxus.Application\\DTOs\\Branch\\CreateBranchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:02:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UserFormRightController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\UserFormRightController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\UserFormRightController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\UserFormRightController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\UserFormRightController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\TopicController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\TopicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:33.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IndustrySegmentsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\IndustrySegmentsController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\IndustrySegmentsController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\IndustrySegmentsController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\IndustrySegmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Maxus\\Controllers\\ImageController.cs",
+              "ToolTip": "D:\\Projects\\Amit\\Maxus\\Maxus\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Maxus\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T13:57:00.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

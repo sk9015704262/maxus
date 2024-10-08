@@ -1,0 +1,70 @@
+﻿
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Visit Email Draft</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif; line-height: 1.6;
+        }
+
+        .email-content {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+            .email-content h4 {
+                display: block;
+                margin-block-start: 1.33em;
+                margin-block-end: 1.33em;
+                margin-inline-start: 0px;
+                margin-inline-end: 0px;
+                font-weight: bold;
+                unicode-bidi: isolate;
+            }
+
+            .email-content p {
+                display: block;
+                margin-block-start: 1em;
+                margin-block-end: 1em;
+                margin-inline-start: 0px;
+                margin-inline-end: 0px;
+                unicode-bidi: isolate;
+            }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="email-content">
+           
+            <strong>
+                Dear [RecipientName],
+            </strong>
+
+    <p>I hope this email finds you well.</p>
+
+    <p>I am writing to provide you with the detailed report from my recent visit to the site at <strong> [Site Name]  </strong> on <strong> [Date of Visit] </strong>.</p>
+
+    <p>Please find the detailed report attached to this email for your reference.</p>
+
+    <p>If you have any questions or require further information, please do not hesitate to contact me. Your feedback is invaluable as we strive to ensure the best services.</p>
+
+    <p>Thank you for your continued support and collaboration.</p>
+
+    <p>Best regards,</p>
+
+    <p>
+        [Site Supervisor Name]<br />
+        [Site Supervisor Designation]<br />
+        [Site Supervisor Contact Information]<br />
+        [Company Name]
+    </p>
+
+    <p>[Attachment: Site Visit Report - [Date].pdf]</p>
+</div>
+    </form>
+</body>
+</html>

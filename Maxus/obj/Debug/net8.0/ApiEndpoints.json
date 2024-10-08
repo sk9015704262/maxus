@@ -1,0 +1,1463 @@
+[
+  {
+    "ContainingType": "Maxus.Controllers.AdminDashBoardController",
+    "Method": "GetAdminDashBoardData",
+    "RelativePath": "api/AdminDashBoard/GetAdminDashBoardData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.dashboard.GetReportCountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AttachmentLimitController",
+    "Method": "CreateAttachmentLimit",
+    "RelativePath": "api/AttachmentLimit/CreateAttachmentLimit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createRequest",
+        "Type": "Maxus.Application.DTOs.AttachmentLimits.CreateAttachmentLimitRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AttachmentLimitController",
+    "Method": "DeleteAttachmentLimit",
+    "RelativePath": "api/AttachmentLimit/DeleteAttachmentLimit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deleteRequest",
+        "Type": "Maxus.Application.DTOs.AttachmentLimits.DeleteAttachmentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AttachmentLimitController",
+    "Method": "GetAllAttachmentLimit",
+    "RelativePath": "api/AttachmentLimit/GetAllAttachmentLimit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.AttachmentLimits.AttachmentLimitListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AttachmentLimitController",
+    "Method": "GetAttachmentBySite",
+    "RelativePath": "api/AttachmentLimit/GetAttachmentBySite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getRequest",
+        "Type": "Maxus.Application.DTOs.AttachmentLimits.GetAttachmentBySiteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AttachmentLimitController",
+    "Method": "GetByIdAttachmentLimit",
+    "RelativePath": "api/AttachmentLimit/GetByIdAttachmentLimit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getRequest",
+        "Type": "Maxus.Application.DTOs.AttachmentLimits.GetAttachmentByIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AttachmentLimitController",
+    "Method": "UpdateAttachmentLimit",
+    "RelativePath": "api/AttachmentLimit/UpdateAttachmentLimit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRequest",
+        "Type": "Maxus.Application.DTOs.AttachmentLimits.UpdateAttachmentLimitRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AuthController",
+    "Method": "LoginAdmin",
+    "RelativePath": "api/Auth/Login-admin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LoginDto",
+        "Type": "Maxus.Application.DTOs.Auth.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.AuthController",
+    "Method": "LoginUser",
+    "RelativePath": "api/Auth/Login-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LoginDto",
+        "Type": "Maxus.Application.DTOs.Auth.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.BranchController",
+    "Method": "CreateBranch",
+    "RelativePath": "api/Branch/CreateBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Branch.CreateBranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.BranchController",
+    "Method": "DeleteBranch",
+    "RelativePath": "api/Branch/DeleteBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Branch.DeleteBranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.BranchController",
+    "Method": "GetAllBranch",
+    "RelativePath": "api/Branch/GetAllBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Branch.BranchListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.BranchController",
+    "Method": "GetBranch",
+    "RelativePath": "api/Branch/GetBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Branch.GetBranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.BranchController",
+    "Method": "UpdateBranch",
+    "RelativePath": "api/Branch/UpdateBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Branch.UpdateBranchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CheckListController",
+    "Method": "CreateChekList",
+    "RelativePath": "api/CheckList/CreateChekList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createRequest",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackOption.CreateCustomerFeedbackOptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CheckListController",
+    "Method": "DeleteChekList",
+    "RelativePath": "api/CheckList/DeleteChekList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackOption.DeleteCustomerFeedbackOptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CheckListController",
+    "Method": "GetAllChekList",
+    "RelativePath": "api/CheckList/GetAllChekList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackOption.CustomerFeedbackOptionListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CheckListController",
+    "Method": "GetChekList",
+    "RelativePath": "api/CheckList/GetChekList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getRequest",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackOption.GetCustomerFeedbackOptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CheckListController",
+    "Method": "UpdateChekList",
+    "RelativePath": "api/CheckList/UpdateChekList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackOption.UpdateCustomerFeedbackOptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.ClientController",
+    "Method": "CreateClient",
+    "RelativePath": "api/Client/CreateClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Client.CreateClientRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.ClientController",
+    "Method": "DeleteClient",
+    "RelativePath": "api/Client/DeleteClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Client.DeleteClientReqest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.ClientController",
+    "Method": "GetAllClients",
+    "RelativePath": "api/Client/GetAllClients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Client.ClientListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.ClientController",
+    "Method": "GetClient",
+    "RelativePath": "api/Client/GetClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Company.GetCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.ClientController",
+    "Method": "UpdateClient",
+    "RelativePath": "api/Client/UpdateClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Client.UpdateClientRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CompanyController",
+    "Method": "CreateCompany",
+    "RelativePath": "api/Company/CreateCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Company.CreateCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CompanyController",
+    "Method": "DeleteCompany",
+    "RelativePath": "api/Company/DeleteCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Company.DeleteCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CompanyController",
+    "Method": "GetAllCompanies",
+    "RelativePath": "api/Company/GetAllCompanies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Company.CompanyListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CompanyController",
+    "Method": "GetCompany",
+    "RelativePath": "api/Company/GetCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Company.GetCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CompanyController",
+    "Method": "GetCompanyByUser",
+    "RelativePath": "api/Company/GetCompanyByUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Company.GetCompanyByUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CompanyController",
+    "Method": "UpdateCompany",
+    "RelativePath": "api/Company/UpdateCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Company.UpdateCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackController",
+    "Method": "CreateCustomerFeedback",
+    "RelativePath": "api/CustomerFeedback/CreateCustomerFeedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createRequest",
+        "Type": "Maxus.Application.DTOs.CustomerFeedback.CreateCustomerFeedbackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackController",
+    "Method": "DeleteCustomerFeedback",
+    "RelativePath": "api/CustomerFeedback/DeleteCustomerFeedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deleteRequest",
+        "Type": "Maxus.Application.DTOs.CustomerFeedback.DeleteCustomerFeedbackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackController",
+    "Method": "GetAllCustomerfeedback",
+    "RelativePath": "api/CustomerFeedback/GetAllCustomerfeedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listRequest",
+        "Type": "Maxus.Application.DTOs.CustomerFeedback.CustomerFeedbackListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackController",
+    "Method": "GetCustomerFeedback",
+    "RelativePath": "api/CustomerFeedback/GetCustomerFeedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getRequest",
+        "Type": "Maxus.Application.DTOs.CustomerFeedback.GetCustomerFeedbackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackController",
+    "Method": "GetCustomerFeedbackCheckList",
+    "RelativePath": "api/CustomerFeedback/GetCustomerFeedbackCheckList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Request",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackOption.GetCustomerFeedbackByCompanyIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackController",
+    "Method": "UpdateCustomerFeedback",
+    "RelativePath": "api/CustomerFeedback/UpdateCustomerFeedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRequest",
+        "Type": "Maxus.Application.DTOs.CustomerFeedback.UpdateCustomerFeedbackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackReportController",
+    "Method": "CreateCustomerFeedbackReport",
+    "RelativePath": "api/CustomerFeedbackReport/CreateCustomerFeedbackReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackReport.CreateCustomerFeedbackReportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackReportController",
+    "Method": "GetAllCustomerFeedbackReport",
+    "RelativePath": "api/CustomerFeedbackReport/GetAllCustomerFeedbackReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackReport.CustomerFeedbackReportListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.CustomerFeedbackReportController",
+    "Method": "GetCustomerFeedbackReportById",
+    "RelativePath": "api/CustomerFeedbackReport/GetCustomerFeedbackReportById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.CustomerFeedbackReport.GetCustomerFeedbackReportByIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.EmailController",
+    "Method": "SendMail",
+    "RelativePath": "api/Email/SendMail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Mail.SendReportMailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.ImageController",
+    "Method": "ImageUpload",
+    "RelativePath": "api/Image/ImageUpload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Path",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.IndustrySegmentsController",
+    "Method": "CreateIndustrySegments",
+    "RelativePath": "api/IndustrySegments/CreateIndustrySegments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.IndustrySegments.CreateIndustrySegmentsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.IndustrySegmentsController",
+    "Method": "DeleteIndustrySegments",
+    "RelativePath": "api/IndustrySegments/DeleteIndustrySegments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.IndustrySegments.DeleteIndustrySegmentsReqest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.IndustrySegmentsController",
+    "Method": "GetAllIndustrySegments",
+    "RelativePath": "api/IndustrySegments/GetAllIndustrySegments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.IndustrySegments.IndustrySegmentsListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.IndustrySegmentsController",
+    "Method": "GetIndustrySegments",
+    "RelativePath": "api/IndustrySegments/GetIndustrySegments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.IndustrySegments.GetIndustrySegmentsReqest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.IndustrySegmentsController",
+    "Method": "UpdateIndustrySegments",
+    "RelativePath": "api/IndustrySegments/UpdateIndustrySegments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.IndustrySegments.UpdateIndustrySegmentsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.MobileApiController",
+    "Method": "GetDashBoardData",
+    "RelativePath": "api/MobileApi/GetDashBoardData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.dashboard.DashBoardListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.MOMReportController",
+    "Method": "CreateMOMReport",
+    "RelativePath": "api/MOMReport/CreateMOMReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.MOM.CreateMOMRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.MOMReportController",
+    "Method": "GetAllMOMReport",
+    "RelativePath": "api/MOMReport/GetAllMOMReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.MOM.GetMOMReportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.MOMReportController",
+    "Method": "GetMOMReport",
+    "RelativePath": "api/MOMReport/GetMOMReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.MOM.GetMOMReportIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.MOMReportController",
+    "Method": "GetMOMReportByCompany",
+    "RelativePath": "api/MOMReport/GetMOMReportByCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.MOM.GetMOMReportByCompanyIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "CreateSite",
+    "RelativePath": "api/Site/CreateSite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.CreateSiteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "DeleteSite",
+    "RelativePath": "api/Site/DeleteSite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.DeleteSiteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "GetAllSite",
+    "RelativePath": "api/Site/GetAllSite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.SiteListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "GetRepresentativeBysite",
+    "RelativePath": "api/Site/GetRepresentativeBysite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.GetRepresentativeBySiteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "GetSite",
+    "RelativePath": "api/Site/GetSite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.GetSiteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "GetSiteByCompany",
+    "RelativePath": "api/Site/GetSiteByCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.GetSiteByCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "GetSiteByCompanyAndClient",
+    "RelativePath": "api/Site/GetSiteByCompanyAndClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.GetSiteByCompanyAndClientRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "GetSiteByUser",
+    "RelativePath": "api/Site/GetSiteByUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.GetSiteByUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.SiteController",
+    "Method": "UpdateSite",
+    "RelativePath": "api/Site/UpdateSite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Site.UpdateSiteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TopicController",
+    "Method": "CreateTopic",
+    "RelativePath": "api/Topic/CreateTopic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Topic.CreateTopicRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TopicController",
+    "Method": "DeleteTopic",
+    "RelativePath": "api/Topic/DeleteTopic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Topic.DeleteTopicReqest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TopicController",
+    "Method": "GetAllTopic",
+    "RelativePath": "api/Topic/GetAllTopic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Topic.TopicListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TopicController",
+    "Method": "GetTopic",
+    "RelativePath": "api/Topic/GetTopic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Topic.GetTopicReqest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TopicController",
+    "Method": "UpdateTopic",
+    "RelativePath": "api/Topic/UpdateTopic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Topic.UpdateTopicRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TrainingReportController",
+    "Method": "CreateTrainingReport",
+    "RelativePath": "api/TrainingReport/CreateTrainingReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.TrainingReport.CreateTrainingReportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TrainingReportController",
+    "Method": "GetAllTrainingReports",
+    "RelativePath": "api/TrainingReport/GetAllTrainingReports",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.TrainingReport.TrainingReportListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.TrainingReportController",
+    "Method": "GetTrainingReportById",
+    "RelativePath": "api/TrainingReport/GetTrainingReportById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.TrainingReport.GetTrainingReportByIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserFormRightController",
+    "Method": "CreateUserFormRight",
+    "RelativePath": "api/UserFormRight/CreateUserFormRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserFromRight.CreateUserFormRightRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserFormRightController",
+    "Method": "GetUserFormRight",
+    "RelativePath": "api/UserFormRight/GetUserFormRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserFromRight.GetUserFormRightRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserFormRightController",
+    "Method": "UpdateUserFormRight",
+    "RelativePath": "api/UserFormRight/UpdateUserFormRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserFromRight.UpdateUserFormRightRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserRightsController",
+    "Method": "CreateUserRight",
+    "RelativePath": "api/UserRights/CreateUserRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserRights.CreateUserRightRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserRightsController",
+    "Method": "DeleteUserRight",
+    "RelativePath": "api/UserRights/DeleteUserRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserRights.DeleteUserRightRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserRightsController",
+    "Method": "GetAllUserRight",
+    "RelativePath": "api/UserRights/GetAllUserRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserRights.GetUserRightListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserRightsController",
+    "Method": "GetUserRight",
+    "RelativePath": "api/UserRights/GetUserRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserRights.GetUserRightsReqest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UserRightsController",
+    "Method": "UpdateUserRight",
+    "RelativePath": "api/UserRights/UpdateUserRight",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.UserRights.UpdateUserRightRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Users/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Users.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Users/DeleteUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UsersController",
+    "Method": "GetAllUser",
+    "RelativePath": "api/Users/GetAllUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Users.UsersListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UsersController",
+    "Method": "GetUser",
+    "RelativePath": "api/Users/GetUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Users.GetUserReqest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UsersController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Users/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Users.ResetpasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.UsersController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Users/UpdateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.Users.UpdateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportController",
+    "Method": "CreateVisitReport",
+    "RelativePath": "api/VisitReport/CreateVisitReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.VisitReport.CreateVisitReportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportController",
+    "Method": "GetAllVisitReport",
+    "RelativePath": "api/VisitReport/GetAllVisitReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.VisitReport.VisitReportListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportController",
+    "Method": "GetVisitReportById",
+    "RelativePath": "api/VisitReport/GetVisitReportById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Maxus.Application.DTOs.VisitReport.GetVisitReportByIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportCheckListController",
+    "Method": "CreateVisitReportCheckList",
+    "RelativePath": "api/VisitReportCheckList/CreateVisitReportCheckList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createRequest",
+        "Type": "Maxus.Application.DTOs.VisitReport.CreateVisitReportCheckListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportCheckListController",
+    "Method": "DeleteVisitReportCheckList",
+    "RelativePath": "api/VisitReportCheckList/DeleteVisitReportCheckList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deleteRequest",
+        "Type": "Maxus.Application.DTOs.VisitReport.DeleteVisitReportChekListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportCheckListController",
+    "Method": "GetAllVisitReportCheckList",
+    "RelativePath": "api/VisitReportCheckList/GetAllVisitReportCheckList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listRequest",
+        "Type": "Maxus.Application.DTOs.VisitReport.VisitReportChekListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportCheckListController",
+    "Method": "GetvisitByCompanyCheckList",
+    "RelativePath": "api/VisitReportCheckList/GetvisitByCompanyCheckList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Request",
+        "Type": "Maxus.Application.DTOs.VisitReport.GetVisitByCompanyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportCheckListController",
+    "Method": "GetVisitReportCheckList",
+    "RelativePath": "api/VisitReportCheckList/GetVisitReportCheckList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getRequest",
+        "Type": "Maxus.Application.DTOs.VisitReport.GetVisitReportRequestChekList",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Maxus.Controllers.VisitReportCheckListController",
+    "Method": "UpdateVisitReportCheckList",
+    "RelativePath": "api/VisitReportCheckList/UpdateVisitReportCheckList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRequest",
+        "Type": "Maxus.Application.DTOs.VisitReport.UpdateVisitReportChekListRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
